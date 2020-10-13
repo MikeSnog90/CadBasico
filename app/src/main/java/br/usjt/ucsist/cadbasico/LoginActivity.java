@@ -14,6 +14,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
     }
 
+    //aqui é onde faço a transição das Telas
     public void novoCadastro(View view) {
         Intent intent = new Intent(this, CadastroActivity.class);
         startActivity (intent);
