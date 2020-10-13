@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CadBasico</string>
+    <string name="tela_de_login">Tela de Login!</string>
+    <string name="cadastro_de_aluno">Cadastro de Aluno</string>
+</resources>
